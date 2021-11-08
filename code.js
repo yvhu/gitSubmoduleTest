@@ -1,3 +1,4 @@
 module.exports = {
-    text: '123'
+    'text': '123',
+    'c':'222'
 }
